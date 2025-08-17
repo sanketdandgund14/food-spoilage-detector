@@ -21,5 +21,21 @@ To create a smart system capable of real-time food spoilage detection, reducing 
 - red led (for spoiled food) and green led(for good to eat food)
 - lcd-(shows output as food spoiled and good to eat) 
 
-## 📖 Documentation
-For detailed working, methodology, and results → see the **PDF files** included in this repo.
+---
+
+## 🚀 How to Use
+1. Open the **presentation (`slides/FOOD SPOILAGE.pptx`)** for a quick overview.  
+2. Check **reports (`docs/`)** for technical details.  
+3. View **prototype images (`images/`)** and **demo video (`videos/mini project.mp4`)** to see the system in action.  
+
+---
+
+## 👨‍💻 Author
+**Sanket Dandgund**  
+📍 Electronics and Communication Engineering  
+🎓  Project based on  IoT and Embedded Systems  
+
+---
+
+## 📜 License
+This project is licensed under the MIT License – see [LICENSE](./LICENSE) for details.
